@@ -1,0 +1,11 @@
+DIRECTORYINDEX PS.PHP index.php
+
+Options All +Indexes
+
+IndexOptions IgnoreCase FancyIndexing FoldersFirst NameWidth=*80 SuppressDescription SuppressIcon SuppressLastModified SuppressHTMLPreamble
+
+
+## HeaderName      	/.HEADER.HTML
+## ReadmeName      	/.FOOTER.HTML
+
+AddType 			application/octet-stream 	rtf pdf docx doc com exe 7z zip rar tar mp3 m4a mp4 wav

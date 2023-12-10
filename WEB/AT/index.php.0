@@ -1,0 +1,73 @@
+<html>
+<head>
+<LINK REL="ICON" TYPE="IMAGE/X-ICON" HREF="/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+<link rel="shortcut icon" href="/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap" rel="stylesheet">
+<style type="text/css">
+font {
+font-family: 'Dosis', sans-serif;
+}
+.auto-style1 {
+	text-align: center;
+}
+.auto-style2 {
+	text-align: center;
+	font-size: 72pt;
+}
+.auto-style3 {
+	text-align: center;
+}
+.auto-style4 {
+}
+a {
+	color: #C0C0C0;
+	text-decoration: none;
+}
+a:visited {
+	color: #C0C0C0;
+}
+a:active {
+	color: #C0C0C0;
+}
+a:active {
+	color: #808080;
+}
+a:hover {
+	color: #000000;
+}
+</style>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+.auto-style5 {
+	font-size: 18pt;
+}
+.auto-style6 {
+	color: #C0C0C0;
+}
+</style>
+<meta content="ascii art, text art" name="keywords">
+<meta content="Private Site" name="description">
+</head>
+
+<title>AsciiText</title>
+<body style="background-color: #FFFFFF">
+<font>
+<p class="auto-style2"><br class="auto-style4"><span class="auto-style4">AsciiText<span class="auto-style6"><font size="5">&nbsp; 1.0</font></span></span><br class="auto-style5">
+</p>
+<p class="auto-style2">
+<font size="5">
+<a href="http://www.torchsoft.com/en/download.html" target="_blank">ASCII Art 
+Studio</a>&nbsp; |&nbsp; <a href="http://www.jave.de/download/download.html" target="_blank">
+JaVE</a>&nbsp; |&nbsp;
+<a href="https://www.kifoth.de/jane/html/download.php" target="_blank">JANE</a></font></p>
+<p class="auto-style3"><span class="auto-style6">&gt; </span> <a href="TXT/" target="_blank">CLICK HERE FOR 
+THE TOP 20 
+TEXTARTS</a><span class="auto-style6"> &lt;</span></p>
+<p class="auto-style1">&nbsp;</p>
+<p class="auto-style1">(C)2023 AsciiText. All Rights Reserved</p>
+<p class="auto-style1">Visitor No. <?php include("NO.PHP"); ?></p>
+</font>
+</html>

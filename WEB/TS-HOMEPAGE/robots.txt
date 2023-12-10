@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+Disallow: /dl/
+Disallow: /IPS/
+Disallow: /pre/
+Disallow: /IPS/*.IP$
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.thomasschilb.com/sitemap.xml
